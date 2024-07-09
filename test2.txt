@@ -1,0 +1,19 @@
+1. Front-end
+HTML
+CSS
+    1.Bootstrap
+    2.Tailwind CSS
+Javascript
+React.js
+
+
+2. Connectivity
+
+Postman API
+Supabase
+
+3. Backend
+Nod.js
+Mongo db and mongoose
+express.js
+vue.js
