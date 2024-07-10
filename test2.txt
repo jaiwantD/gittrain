@@ -10,7 +10,7 @@ React.js
 2. Connectivity
 
 Postman API
-Supabase
+Supabase/Firebase
 
 3. Backend
 Node.js
