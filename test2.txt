@@ -13,7 +13,4 @@ Postman API
 Supabase/Firebase
 
 3. Backend
-Node.js
-Mongo db and mongoose
-express.js
-vue.js
+
